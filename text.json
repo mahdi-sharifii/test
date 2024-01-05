@@ -1,0 +1,51 @@
+[
+    {
+        "id":0,
+        "title":"تیتاب",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/89171768e960856ac5940e4d8bc750758cd10eb0_1683368694.jpg",
+        "des": "elx",
+        "price" : 350000,
+        "for_buy": true
+    },
+
+    {
+        "id":1,
+        "title":"کرانچی",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/ff210867cb09e98ae62499dc66824ee901a48c2d_1700481426.jpg",
+        "des": "پراید",
+        "price" : 350000,
+        "for_buy": false
+    },
+    
+    {
+        "id":2,
+        "title":"گوشی",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/348e17f0fe855cb25127298fd5003460b3d29297_1690712123.jpg",
+        "des": "elx",
+        "price" : 580,
+        "for_buy": true
+    },
+
+    {
+        "id":3,
+        "title":"رم",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/6fbc38a65e84629afe58ca25d546acdfd68f66c8_1631373199.jpg",
+        "des": "elx",
+        "price" : 350000,
+        "for_buy": false
+    },    {
+        "id":4,
+        "title":"شاتون",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/505b8517c081fc40ff731ccb79e97f419f923f7a_1665301574.jpg",
+        "des": "elx",
+        "price" : 350000,
+        "for_buy": true
+    },    {
+        "id":5,
+        "title":"سپر",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/98866ce41fd6620f599ff73754abc8eaa4fecf3f_1703605611.jpg",
+        "des": "elx",
+        "price" : 350000,
+        "for_buy": false
+    }
+]
