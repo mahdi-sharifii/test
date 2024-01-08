@@ -10,59 +10,59 @@
     },
 
     {
-        "id":0,
-        "title":"ردمی 12",
-        "image":"https://dkstatics-public.digikala.com/digikala-products/58310e6f1f7829712ac07237cf5eddbcc24b6288_1704616007.jpg",
-        "price" : 620000,
-        "off_price" : 590000,
-        "off_precent" : 5
+        "id":1,
+        "title":"هندزفری",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/d0406c6d7127e627a00e639c5505f2970c36cda4_1660730180.jpg",
+        "price" : 800000,
+        "off_price" : 300000,
+        "off_precent" : 50
         
     },
     
     {
-        "id":0,
-        "title":"ردمی 12",
-        "image":"https://dkstatics-public.digikala.com/digikala-products/58310e6f1f7829712ac07237cf5eddbcc24b6288_1704616007.jpg",
-        "price" : 620000,
-        "off_price" : 590000,
-        "off_precent" : 5
+        "id":2,
+        "title":"ساعت هوشمند",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/727d1cda829f06559649634c9bc27f742ecefd93_1685250629.jpg",
+        "price" : 380000,
+        "off_price" : 220000,
+        "off_precent" : 40
         
     },
 
     {
-        "id":0,
-        "title":"ردمی 12",
-        "image":"https://dkstatics-public.digikala.com/digikala-products/58310e6f1f7829712ac07237cf5eddbcc24b6288_1704616007.jpg",
-        "price" : 620000,
-        "off_price" : 590000,
-        "off_precent" : 5
+        "id":3,
+        "title":" اسپیکر بلوتوثی",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/9f796a83521e14661484c68191a23fc458eed7be_1702890841.jpg",
+        "price" : 240000,
+        "off_price" : 160000,
+        "off_precent" : 30
         
     },  
       {
-        "id":0,
-        "title":"ردمی 12",
-        "image":"https://dkstatics-public.digikala.com/digikala-products/58310e6f1f7829712ac07237cf5eddbcc24b6288_1704616007.jpg",
-        "price" : 620000,
-        "off_price" : 590000,
-        "off_precent" : 5
+        "id":4,
+        "title": "لامپ ال ای دی",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/42504edf0983da8e0dd0936be0b958009a2dc2e6_1702224036.jpg",
+        "price" : 270000,
+        "off_price" : 160000,
+        "off_precent" : 30
         
     }, 
      {
-        "id":0,
-        "title":"ردمی 12",
-        "image":"https://dkstatics-public.digikala.com/digikala-products/58310e6f1f7829712ac07237cf5eddbcc24b6288_1704616007.jpg",
-        "price" : 620000,
-        "off_price" : 590000,
-        "off_precent" : 5
+        "id":5,
+        "title":" سرویس پخت ",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/dfe4a6d1737f8309840d57f45d33304676abcced_1654581225.jpg",
+        "price" : 230000,
+        "off_price" : 130000,
+        "off_precent" : 40
         
     },
     {
-        "id":0,
-        "title":"ردمی 12",
-        "image":"https://dkstatics-public.digikala.com/digikala-products/58310e6f1f7829712ac07237cf5eddbcc24b6288_1704616007.jpg",
-        "price" : 620000,
-        "off_price" : 590000,
-        "off_precent" : 5
+        "id":6,
+        "title": "دو شاخه تبدیل",
+        "image":"https://dkstatics-public.digikala.com/digikala-products/baa9104cd9482548341e6ed05b6f82f3c7e2aa09_1701609862.jpg",
+        "price" : 90000,
+        "off_price" : 35000,
+        "off_precent" : 70
         
     }
 ]
